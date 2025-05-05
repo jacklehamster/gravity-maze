@@ -3,7 +3,7 @@
 Gravity Maze is a physics-based puzzle game created for the [GameDev.js Jam 2025](https://gamedevjs.com/jam/2025/). In this game, players guide a ball through a series of rotating platforms to reach a golden ring. Each level introduces new challenges, such as moving platforms and gravity-defying obstacles, testing players' precision and timing.
 
 ## Gameplay
-- **Objective**: Navigate a ball through rotating discs to reach the golden ring at the end of each level.
+- **Objective**: Navigate a ball through moving discs to reach the golden ring at the end of each level.
 - **Controls**:
   - Use **Arrow keys** or **WASD** to tilt the discs and guide the ball.
   - Avoid letting the ball fall off the platforms.
